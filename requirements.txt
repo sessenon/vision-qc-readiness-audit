@@ -1,0 +1,9 @@
+# Versions used for the reported run were not pinned; run `pip freeze > requirements.txt` on the original machine to pin them.
+torch
+torchvision
+numpy
+pillow
+scikit-learn
+onnx
+onnxruntime
+matplotlib

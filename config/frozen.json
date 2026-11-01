@@ -1,0 +1,60 @@
+{
+  "frozen_at": "2026-10-26T17:53:39+00:00",
+  "coreset_ratio": 0.01,
+  "calibration_images": 50,
+  "int8_weights": "QInt8",
+  "reduce_range": true,
+  "calibration_source": "first 50 training images (good parts only)",
+  "val_recall_target": 0.95,
+  "threshold_rule": "Among thresholds whose validation recall meets val_recall_target_for_threshold, choose the one with the fewest validation false alarms; break ties by the largest margin, placing the threshold midway between the highest-scoring good image below it and the lowest-scoring defect at or above it. A score at or above the threshold means 'defect'.",
+  "threshold_rule_changed": "26 Oct 2026, before the test set was opened: the previous rule missed one validation defect with no reduction in false alarms.",
+  "epsilons": [
+    0,
+    0.002,
+    0.005,
+    0.01,
+    0.02,
+    0.03
+  ],
+  "attack_modes": [
+    "worst_case",
+    "evasion"
+  ],
+  "pgd": {
+    "epsilons": [
+      0.01,
+      0.03
+    ],
+    "steps": 10,
+    "step_size": "eps/4",
+    "mode": "worst_case"
+  },
+  "shifts": {
+    "darker": "pixels x 0.7",
+    "blur": "Gaussian blur radius 2",
+    "noise": "Gaussian noise sd 0.04",
+    "jpeg": "JPEG quality 30"
+  },
+  "models": {
+    "FP32": {
+      "threshold": 1.81533,
+      "val_auroc": 1.0,
+      "val_ap": 1.0,
+      "val_precision": 1.0,
+      "val_recall": 1.0,
+      "val_f1": 1.0,
+      "val_false_alarms": 0,
+      "val_margin": 0.231131
+    },
+    "INT8": {
+      "threshold": 1.791505,
+      "val_auroc": 1.0,
+      "val_ap": 1.0,
+      "val_precision": 1.0,
+      "val_recall": 1.0,
+      "val_f1": 1.0,
+      "val_false_alarms": 0,
+      "val_margin": 0.253575
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "openings": [
+    {
+      "at": "2026-10-26T18:22:04+00:00",
+      "reason": "first and only planned opening",
+      "frozen_config_written_at": "2026-10-26T17:53:39+00:00",
+      "test_set_fingerprint": "2b91c8e8be1c3df742d3cb216fbeace4d76f81b24554be1bdb335478433a959d"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+condition,description,auroc_FP32,ap_FP32,recall_FP32,false_alarms_FP32,auroc_INT8,ap_INT8,recall_INT8,false_alarms_INT8
+darker,pixels x 0.7,1.0,1.0,1.0,3,1.0,1.0,1.0,0
+blur,Gaussian blur radius 2,0.9951,0.9962,1.0,32,0.9918,0.9935,1.0,32
+noise,Gaussian noise sd 0.04,0.9984,0.9987,1.0,32,0.9992,0.9993,1.0,32
+jpeg,JPEG quality 30,0.9992,0.9993,1.0,32,0.9975,0.9979,1.0,32

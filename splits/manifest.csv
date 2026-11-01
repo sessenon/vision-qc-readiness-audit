@@ -1,0 +1,293 @@
+path,split,label,defect_type,source_folder,sha256
+data/bottle/train/good/076.png,train,0,good,train/good,446fa2757b9850abe43f25a02c97fee4e187f7ba093e4684adfb227a4f70ae94
+data/bottle/train/good/049.png,train,0,good,train/good,59233798220711bc931bbb9f4c88a7a42e933e831749df316f949b7572f3f5a1
+data/bottle/train/good/197.png,train,0,good,train/good,852d1cf77861a48bfd88ebc23a0667fc062786e527ecbd385cfa5692213c96dc
+data/bottle/train/good/013.png,train,0,good,train/good,13d287cd1cc8b7e7e09ecb74594f7a30d94c35fd5e95b9421b2081d9ead6aa36
+data/bottle/train/good/099.png,train,0,good,train/good,e1a4c992c162158ced8b193ba0a9f6633fa2ed317f345946db4d46733de9eddb
+data/bottle/train/good/135.png,train,0,good,train/good,0340069a42fff669cc7b902d001cad76c636a65cbd47e521dfe21172fcc244fb
+data/bottle/train/good/088.png,train,0,good,train/good,53c201c39528e848f3b046eb2c29ff7f02c6bd4933c330a5394ab3a1af5b1879
+data/bottle/train/good/117.png,train,0,good,train/good,94ce4a1ae16cea15ec2cd49deb1fde4461ad3b17956019c428904d1480fac2c2
+data/bottle/train/good/119.png,train,0,good,train/good,cf1cdb1de9963e0acb7d97d8f26d7b78902026d65408b5d43b2e851aaffb81d4
+data/bottle/train/good/001.png,train,0,good,train/good,ba13b82fc8c732a02277816521fe93a0fee00c524f2742bbb3feed0a31cda8df
+data/bottle/train/good/059.png,train,0,good,train/good,1ba282c78f37753d7036a8d36c79a37707f46108346e88051d84e18d924cee2e
+data/bottle/train/good/147.png,train,0,good,train/good,effbfa26216c3804c353abf7fa8a15b802612706fc929d6176bef6ce17882652
+data/bottle/train/good/150.png,train,0,good,train/good,7933da0e3fe172474fe04c5e7fc75f5121275c5d04d539a9af8d212a89e8034b
+data/bottle/train/good/202.png,train,0,good,train/good,b8b4c42700a70431f50627b0f2d92ba6d2ba5505a4f17d2c8e54a07323e91cd2
+data/bottle/train/good/065.png,train,0,good,train/good,e3e3f61e8377655bef0a6f54c775f128d37160ddb78bc53da0a360aac572a21a
+data/bottle/train/good/176.png,train,0,good,train/good,342f28d113515dcb2bd68a71e33112377c95b9fe78bde3612db290f58e96e971
+data/bottle/train/good/185.png,train,0,good,train/good,0769d698118a46bcab667178818940ffc7984f7cc0f2d356c539ae810bbd510e
+data/bottle/train/good/148.png,train,0,good,train/good,23b47753e2badee3fa340475d4896b2a17677c3d11d276a9a251c10e155bd36c
+data/bottle/train/good/095.png,train,0,good,train/good,3c7a20d8570806e20856fc9abde069a46cfdf9a51c7176bf9c1f49246a3de6f8
+data/bottle/train/good/038.png,train,0,good,train/good,905e9e23f2c982de65f7687ad31d35c750f4812cf681b7263b6cd072548d474d
+data/bottle/train/good/068.png,train,0,good,train/good,93ade48246691fc145a13d531819652b915eeb5da738add2615c40f5590bcc5f
+data/bottle/train/good/040.png,train,0,good,train/good,0981ee2efcd397b9881f46d2bf9a568b94f31b5905e8cd787116e9e4cea47603
+data/bottle/train/good/110.png,train,0,good,train/good,319d8fecca8a1c0f16a3e809598c8fead6716184b74d29a43a8de4dd0d4d6408
+data/bottle/train/good/162.png,train,0,good,train/good,867f712355bb3b48debff36ae7aa6959a04c2886ce1fee7dbde8966302ac8b61
+data/bottle/train/good/009.png,train,0,good,train/good,935dd12766cf96bbdeb48ba5801a896cbd7047212f601077d1adef0db9a6ae57
+data/bottle/train/good/005.png,train,0,good,train/good,ce025f228af389707430c4ff417bb0a4ccf4324b9cef4f60e4ad87ed75c735b6
+data/bottle/train/good/094.png,train,0,good,train/good,60d532f4ed02d61a11b1f27f729adada0f39b793cca317f5d39a8deb794a3b16
+data/bottle/train/good/181.png,train,0,good,train/good,066c05b681ca052fbe526ed2a60e6f21009e2858afe3066ad4d9f1809e9a093a
+data/bottle/train/good/012.png,train,0,good,train/good,0c45f021e169dc8b27120c4c70ea09c0a4e3391482ed4dda4a04baf7b2098b85
+data/bottle/train/good/007.png,train,0,good,train/good,070d4cbe696071aabc660f9362273d79f0cf36b2b60084f6d545902fa455c254
+data/bottle/train/good/054.png,train,0,good,train/good,7ed6a41a7d4b684bfbfb89fbe3989ce90c7ea1179bbf4abec4964d15a91f28ec
+data/bottle/train/good/142.png,train,0,good,train/good,a814867244980bcb110736f1dde7dcca3eb17e710f0a7bae4d2b1f5efe06f005
+data/bottle/train/good/021.png,train,0,good,train/good,92fe0a4a396df3bc95852130a063c241486dccb21ac54017145265a1a5dd72f2
+data/bottle/train/good/127.png,train,0,good,train/good,f21003dd0ed9f30ed6dee799023e198c5acd034c96c0b902acb6f71ca978cd2d
+data/bottle/train/good/028.png,train,0,good,train/good,20ad78aefe7af62b170a569a2c96b95f12621af240e259bb1b32ba142d87638e
+data/bottle/train/good/201.png,train,0,good,train/good,0e17e4c4825b1a2b44d605dcd5dee4d6cd0030c48d6cd407892e5ffc7af8e774
+data/bottle/train/good/034.png,train,0,good,train/good,4a44f447a81d1a9c18577b667e5dd3131b10205d2a739deedf45490f277a402b
+data/bottle/train/good/002.png,train,0,good,train/good,7de0414f1744aaf5cec488928ee3b761509e4bad4f607dc4f6d41ad7862dab69
+data/bottle/train/good/137.png,train,0,good,train/good,73af601ed1d53e3ef2d320bf9e9d37f66190b372ee12a183a0e163d4b7301e4b
+data/bottle/train/good/157.png,train,0,good,train/good,e4a5c2f8ddb99cb6836996835134ce3a112dbc6ea7e124607263a7a6e310ee16
+data/bottle/train/good/042.png,train,0,good,train/good,034e70851f06468c7c48fee1845a890074f96887beaa08c0d72b86b10aa4343c
+data/bottle/train/good/173.png,train,0,good,train/good,e5b4469783dba8533f176214f2cc98f888c7a500f0246ddfc3c3edd88f00f87b
+data/bottle/train/good/115.png,train,0,good,train/good,458a7e5623885f31ec175d1bd517e3e60b21f1e06de113573c00f6c917f8bd69
+data/bottle/train/good/155.png,train,0,good,train/good,c931f3c7a8335fa857f2b0573bd5e261ec27ee1292f76f085132a2b4b03181de
+data/bottle/train/good/014.png,train,0,good,train/good,a8826579631c43c66b2e0d33f00cf6d5beac3dcab0cadf50bec3c8837a329288
+data/bottle/train/good/168.png,train,0,good,train/good,79cc0a25256a33f2091c6e28c0092b6747105f7498cedea841f500c12e7eb0e7
+data/bottle/train/good/041.png,train,0,good,train/good,52c84bab48a67573f1bf589366ad7a882b1c7c866c09e3f4fffa3693bf4a69c3
+data/bottle/train/good/109.png,train,0,good,train/good,21762b7de09dcabc7934dc0c493575036cf26830ebf23492ecd6f6ce15c056c9
+data/bottle/train/good/045.png,train,0,good,train/good,e49f59e90918e7d94cd5439eb595e019722a3b254e12ea6ccf901bab2a25112a
+data/bottle/train/good/082.png,train,0,good,train/good,ea1e99464a55dffd111a3de3a415e8a2e0191e045cfc8a8fd8f52408f5680cb0
+data/bottle/train/good/121.png,train,0,good,train/good,e776eef773529b358c1c300eabb3840115b8d30bf9e4c0e349d7c84fe0360433
+data/bottle/train/good/063.png,train,0,good,train/good,28ce3e5c3cbc27ecd934bf1eb3117122baa2fd4c37a036b128771b910920b3b9
+data/bottle/train/good/057.png,train,0,good,train/good,ff41fa6adf5452d5f2d3abf0939aacac53779b4f70de4db2a816843a3179a171
+data/bottle/train/good/101.png,train,0,good,train/good,2d7c15f07db47803d9f631772b08b32d33df095df5d51c32a2ace9c1c7883568
+data/bottle/train/good/128.png,train,0,good,train/good,80de6ae7a48146eb91e9e8cc51d107f6fa1d2114598156e625b7ba1ab2d894bc
+data/bottle/train/good/053.png,train,0,good,train/good,60b6cc8478b5638a07677159ddb2d9310eafb8ec86458661ad9163693a0dbab8
+data/bottle/train/good/075.png,train,0,good,train/good,1f87cfa2cc3e2152ee3593e2092cc48e23132c4aaea23de20ef4547a2bb612a9
+data/bottle/train/good/116.png,train,0,good,train/good,4ddfaaeec9edb8483cd037577e3f78a1642737f2894189b128327c3bf19fa485
+data/bottle/train/good/171.png,train,0,good,train/good,b16c0230ee604e6dd068ce3a43e21c81c6db9686e291cfa12c5848dd8d69b335
+data/bottle/train/good/030.png,train,0,good,train/good,2ae6e2e8ca1e90f4e0804e28faeb9bb51cd3c130bda50ed0bafe05fb4533cfd0
+data/bottle/train/good/165.png,train,0,good,train/good,a8d92b29bad7077db7eded58bed35b8fe1e49faf3bc3d0886f01144d03d551ae
+data/bottle/train/good/191.png,train,0,good,train/good,aa2be01b4b501f33fa2b9c69b150774255302f39c29ed517326b9fce7fe4ece8
+data/bottle/train/good/067.png,train,0,good,train/good,0dff6a5f0dbc1cff776a090aa6fac8943497081470e6c454d38239b625bc8daa
+data/bottle/train/good/186.png,train,0,good,train/good,16e4ef828af6867ac5592a1c70cf0412518316d9d5ba90db98d9b3222db46b20
+data/bottle/train/good/050.png,train,0,good,train/good,fe999421df95604555b3c253f524e4a6328f16dc8dfe24de6eb66a34fda43d97
+data/bottle/train/good/087.png,train,0,good,train/good,d90d26b8cf6ae5684cc3d15a7f1648a2bc7bac59af7646d933a8b8f0924a2999
+data/bottle/train/good/069.png,train,0,good,train/good,40802acb289937ab895aa716810049c5fa1a6d3f7129820eb55dc48ba63c4324
+data/bottle/train/good/106.png,train,0,good,train/good,3a2700ef2b72514e52b11af74a2b1e9a8bc22155391e6dd2a45540b91c682e53
+data/bottle/train/good/089.png,train,0,good,train/good,e9861f73abb873306db658ae65a7c240974c4ee5453d22ecbe6dd460c7762979
+data/bottle/train/good/205.png,train,0,good,train/good,ebf6d056a9534420d51d13516ee3b46468b5d1c2a5198823b577f8e00bace25a
+data/bottle/train/good/206.png,train,0,good,train/good,d8c79bc8793403ad4a731bfda783b34126396f27ded0268392c2eea6ba6d3280
+data/bottle/train/good/123.png,train,0,good,train/good,3b43b81d89c9e3ba46c91ba2eef5c86c932626d91e8ed1ecf53b2a657075f0cd
+data/bottle/train/good/019.png,train,0,good,train/good,a12a98cfa582797afce9dd170f5f6795747df8672deaed80d03c7e26406c1aa0
+data/bottle/train/good/112.png,train,0,good,train/good,54f1cbac4964908eea641c2c61a283c98055b5330a7ae85596abb75b883041ec
+data/bottle/train/good/153.png,train,0,good,train/good,4efc403ad8589117d6707151da82beb4a0f2d50ba96c35beabbd4a88fc4798d8
+data/bottle/train/good/096.png,train,0,good,train/good,4fb0a3c26dc80d417473f52c3d6d5c7c410bac411b8e86391b0e23a5b0eec5cb
+data/bottle/train/good/086.png,train,0,good,train/good,b440fd1c2dc1b8621dae3697a59b75be7046675045c8bc91715f755962435738
+data/bottle/train/good/011.png,train,0,good,train/good,8493f6eb590418997ff950e1a2cfbe5f31ebbf49a8d075b838a98abfe851ae26
+data/bottle/train/good/008.png,train,0,good,train/good,fbdca6b40932e967780ba859bb752eeed1996e874581c47d29da7d23f33048be
+data/bottle/train/good/060.png,train,0,good,train/good,d325b1ada72a37bae2b950f5e5077637144f30ab4c91ce31768f0edfddd76dab
+data/bottle/train/good/033.png,train,0,good,train/good,16e52b8b32fcaa6295840300340287fed67abcaf1d4ee9d8edd5e674e46b17ca
+data/bottle/train/good/179.png,train,0,good,train/good,e54b7f1f22c1ed5795b3a09a426c15eac516fd712df3744223a0cd6440321c48
+data/bottle/train/good/078.png,train,0,good,train/good,fb3190cddbc2de31ae046c672fe9959c02dcce3b7942795bbd3a1b294418ed5d
+data/bottle/train/good/004.png,train,0,good,train/good,e322ab1ce2714be77610b25209d5ce91df9ef3f434403cf3dc5041f469d2ade3
+data/bottle/train/good/132.png,train,0,good,train/good,fb22cbb08c73151c8aa89c415d88b23688dccf394444243f04e9c192f2de83b1
+data/bottle/train/good/105.png,train,0,good,train/good,c4de3ba2c7d63be43db74b68fa16188f3e00cb4a2c7d51a8e37b84ab02c1b4d2
+data/bottle/train/good/190.png,train,0,good,train/good,817fbc9e317c1f5072fb3b39af398e951a6432b01ddd049daa3af264d1b56095
+data/bottle/train/good/047.png,train,0,good,train/good,87038a5973815117ec24b5cca8cd798dc31d738a0cb6f2efd5803d62f6ef9f1c
+data/bottle/train/good/138.png,train,0,good,train/good,be3e7df715fd4d0072670f7058c70c7374475700272b8af7c95846d0eed75766
+data/bottle/train/good/196.png,train,0,good,train/good,5b2178c5d9c14f180faa21a3ed4f1f5210b8b9b539eeb31df44df5bb71b181ed
+data/bottle/train/good/177.png,train,0,good,train/good,6701c975a0815a9cda6b56967a252c50a88ea03fdd95f945849611f836d45db0
+data/bottle/train/good/208.png,train,0,good,train/good,87bd5efa31f4d982b18104060c2a105c3981fa91f47b28b6be8fac2170b1b80d
+data/bottle/train/good/151.png,train,0,good,train/good,9963bf9ef414a7e822b51a61dc817c113c309c661d4d619a24771da1a25e52b3
+data/bottle/train/good/167.png,train,0,good,train/good,17655246a2a4e78f10854ffb65786de5b9ca49bbe1a38e1e0149c6235b6942ad
+data/bottle/train/good/073.png,train,0,good,train/good,afdbf14a9e365688685b3bf1ece84ae649927fa96a14cbf8fa546b481aa6af78
+data/bottle/train/good/170.png,train,0,good,train/good,f5656d35f7bcfffd99c88b525d62964e60950143fce0c7fee7a76be09448e656
+data/bottle/train/good/189.png,train,0,good,train/good,3da89d6594be3ec58b05f9135b08dc7cbddf4326597c4f204fa4b61efb45f24c
+data/bottle/train/good/031.png,train,0,good,train/good,47980ffc9411c7ef921b750051640587d829f34b2326e08144b0ac3a5e28c106
+data/bottle/train/good/074.png,train,0,good,train/good,0db6035ac38a14a842ca2fb4d9f761dcf0b633437b73b1e1de89d53cfb859b76
+data/bottle/train/good/199.png,train,0,good,train/good,b2f9680e1c915daf3d8f705834f32382e0ddd2bf1196d228993e9644adeb7a00
+data/bottle/train/good/027.png,train,0,good,train/good,c3d7ae38ba8602d8effc716068bb71a4e67d4c0acddd9caf5ec761d3f2853372
+data/bottle/train/good/125.png,train,0,good,train/good,8d3909fa8bf034d1cdb026bcb216a498debc272c20d5f78f2ad6a0a788be7eb3
+data/bottle/train/good/203.png,train,0,good,train/good,d67173e677dc3934521819b986d131f158e776e6c22935b516a97d821f82385a
+data/bottle/train/good/081.png,train,0,good,train/good,7cb0735f9914baa21ceda3699215a8e15665639b181703f3cec94b8f27e1b1a6
+data/bottle/train/good/020.png,train,0,good,train/good,96a7e24ec9ca27a9ff389ccba0260d6d78d6762968803260804aef65f26fe077
+data/bottle/train/good/161.png,train,0,good,train/good,c701921f9544bf7e6025faf7947357cdaacdb469cee2dd8757f33107c3370e63
+data/bottle/train/good/114.png,train,0,good,train/good,36d4e92d88ef92c638b5dbf17667a001b98beb6213acd7eeaf411be54c930bca
+data/bottle/train/good/139.png,train,0,good,train/good,1072c0c297215735147490bdc7cf954a3d2703a897d7455b67e8684f353e4ed9
+data/bottle/train/good/036.png,train,0,good,train/good,9302580815770c06ed9fccad8512b25d3e80053c35dfeb35d743dd5c907761ee
+data/bottle/train/good/061.png,train,0,good,train/good,f40106f40a441d24b6ef04228cab8572b81ef0daaad134b65bfe07aefa622322
+data/bottle/train/good/056.png,train,0,good,train/good,ccd542b186751026009fc32ecbd8f9f48fee61cf6274ecd0b4c8ca2b4e53f1f4
+data/bottle/train/good/145.png,train,0,good,train/good,964f0ba0b2bd34352267b72b4d8d4aa5bc447b7accdb3ac30c30b3f59d73c5fa
+data/bottle/train/good/048.png,train,0,good,train/good,15fa6566a8c01bfcd546f0cf2b34f7e351c9f10126b77ea3ad6ddb9200e21398
+data/bottle/train/good/016.png,train,0,good,train/good,92a6d4b311360bcd5c96ae630a377ea2ebcb29d9b9a39e2f0c1c3ad1f1b88a9a
+data/bottle/train/good/083.png,train,0,good,train/good,2ad85b709cd69e57a816f46ef33da97056a47ed4311a4c6b1d81878bf169fe4e
+data/bottle/train/good/062.png,train,0,good,train/good,bfafe9b9838a8668983da26610405ea0e5f31c3564a4746e80a79722085f56a2
+data/bottle/train/good/085.png,train,0,good,train/good,8d93da99228a622b5be23bbd3edc5e434648bcd86b7b803c67fee86160c587dc
+data/bottle/train/good/126.png,train,0,good,train/good,944059e23461e9720ccf90348e03ae5d401bc470d96e5f2ff6f2609a851c5afb
+data/bottle/train/good/172.png,train,0,good,train/good,7b045f9d28f363ab8a73a86b06deb41f80533a46ebc07c5c803a36fe92c72b71
+data/bottle/train/good/000.png,train,0,good,train/good,8a25eb07475a5102f4823fefd82662dd65f8f2a0a333bf958124ceeee38f0e38
+data/bottle/train/good/102.png,train,0,good,train/good,5386d806e16ce5d9d015cd90fe1b191c335b6b6e64026f41fa7bf14e603dc65e
+data/bottle/train/good/023.png,train,0,good,train/good,5bebcd96862ca137cf0a1be85230cffb0098bd06636747c98dd3109c223dd3a0
+data/bottle/train/good/003.png,train,0,good,train/good,83a8754d0215c4512cdba27caa15d478f21e4314ac85efa639d4d31d1a82122d
+data/bottle/train/good/140.png,train,0,good,train/good,f2719c759aefc178d546217dc97640fb0f641b3dbba5735f3ce5629249cb3c47
+data/bottle/train/good/015.png,train,0,good,train/good,8ce929a477e23b50c37913300541f324eaf6073155e4abea524a3fdd9d7c49b2
+data/bottle/train/good/204.png,train,0,good,train/good,503dfd1395d4ae17446c55bf77d9b611d2923ac4d44f80167fe7d4424c15614d
+data/bottle/train/good/133.png,train,0,good,train/good,7406eeb9d09eacdcf9ea6c54637e5586d188a0be44615cba24723bafbd547029
+data/bottle/train/good/113.png,train,0,good,train/good,8799b98307e89010a0266eaccdacc20c72048b5866d2e9c01119375cd94c8d03
+data/bottle/train/good/198.png,train,0,good,train/good,4646f9fbdec0168c37f122a338968ad7b97db18ccaa35c4281a997e0d2f4cb67
+data/bottle/train/good/141.png,train,0,good,train/good,3ae2b333497d25fb2bc7833a9cf99591c85c0ce8b857eb13c84fe6ff8fa99886
+data/bottle/train/good/052.png,train,0,good,train/good,af57768856d61b24bfdd780989cc5a6623a14c3fd66be2d755af16560fe0e8db
+data/bottle/train/good/163.png,train,0,good,train/good,88821dc57a174f12252872f3bfd03dde2acc0c941bc9425035911ce969523249
+data/bottle/train/good/156.png,train,0,good,train/good,8c49d86dee53b3ce63e8269c8c2ee2c83258ec34528b082e5ccb4b7e1fb61fb6
+data/bottle/train/good/080.png,train,0,good,train/good,8c9594232eb77990d314c9cccc953bc375917f677b9abf283417f2e26c1d0bd8
+data/bottle/train/good/111.png,train,0,good,train/good,141e42f26599992fea73fa005382ad25bb75518aeabbfd8d705ac83bfca1ecae
+data/bottle/train/good/090.png,train,0,good,train/good,3237e873613706a97f28c8279f1b78188a51318c39b1d1ce019ab01cf170ceab
+data/bottle/train/good/182.png,train,0,good,train/good,74d3e9c93703ce8d8e75cc27bacd72a7cb6ae3b02c3ef24594dc557a22af335e
+data/bottle/train/good/143.png,train,0,good,train/good,ec15d8a9a4d1a476b96e03ffbaf3607362f6f80f42c6f968a17d7984c63d3794
+data/bottle/train/good/120.png,train,0,good,train/good,b569d619e8e419448ff8ea6e708a3f999e348efed72d19895cd947a25c398315
+data/bottle/train/good/084.png,train,0,good,train/good,bb3c89c1d05c96c49283f1143b56695e0374741d18e40902b7d5cb857a778e0c
+data/bottle/train/good/175.png,train,0,good,train/good,99c43c84a67ee65a17a25d324fef1853dc04459eaf6d0e03fa7ebc20962918ca
+data/bottle/train/good/018.png,train,0,good,train/good,83b1d0683d6c9dbf41ab72464838991bbb931dff24d644cd8e4bf7582ef784ce
+data/bottle/train/good/025.png,train,0,good,train/good,311f88b86169b4516486999726e702ebca6c8f12c2500cc0449158ffbe0f929b
+data/bottle/train/good/079.png,train,0,good,train/good,408802ee90d3dadd130284d54bd702d2d3e79bd1ffbf4c3c6668731229e5cf06
+data/bottle/train/good/037.png,train,0,good,train/good,3575e4f0785d679737e5d870d4ab308be47ea1565c0b4b6c8d76af502f9a080b
+data/bottle/train/good/154.png,train,0,good,train/good,240f78d67c686abbbd1e96066a1e4d2d128778431e9088a26ab20807247dd75f
+data/bottle/train/good/180.png,train,0,good,train/good,4abbc0205890a0501807ffedcd2525d554ec057c8f57bc9dbb906144b4d5563b
+data/bottle/train/good/136.png,train,0,good,train/good,dee19a0c68ba61c18615ed8516ece0b6f072427e77ba57b93aca4798cfb1b979
+data/bottle/train/good/064.png,train,0,good,train/good,7d8468608a182806104633419bb09162dbc314247e1040226199f594ee6b6e8e
+data/bottle/train/good/158.png,train,0,good,train/good,395472854e57a8a7209202e88bbf76247a3ce2a434b015ee47ef53cde574da77
+data/bottle/train/good/024.png,train,0,good,train/good,0e59918793e8ad42caa415776b381f5366afbd11a9fff2511970dbc1389b8ddf
+data/bottle/train/good/193.png,train,0,good,train/good,1c1a127ff79f2de3391a8cb1bf93e87a4bd396b73fdacee8990b297e97c0601b
+data/bottle/train/good/072.png,train,0,good,train/good,e5f4084f3a58ea10d75f9baa674e830ab07658920d10dcd90f25d332fdc650c8
+data/bottle/train/good/035.png,train,0,good,train/good,1ee9369e10c7f3d73b6a03e2bf3e648ccf29b52e47de99141cbd74603fbd76f0
+data/bottle/train/good/129.png,train,0,good,train/good,0c4c543d0d3f770119334e438b619b649fa84316225ee323bd3c2a558ce35c4f
+data/bottle/train/good/055.png,train,0,good,train/good,7e2044cf73cb8df6b2d728553ab2a5d0366e93374beabe22a3e412ddd9d9907e
+data/bottle/train/good/149.png,train,0,good,train/good,444a2d7be71e2cc32928cbdbe379c3f3c9e219362e4c6189ac188e5029e404d4
+data/bottle/train/good/091.png,train,0,good,train/good,f12a6e2cc58c98b93b6aba11e6bda12af38b75216f876709e6544733072dfb68
+data/bottle/train/good/122.png,train,0,good,train/good,31d47d2f89ce2d347e5bf13a30263e57845a2afa1ce942b8b7c09a5d5d3b0828
+data/bottle/train/good/077.png,train,0,good,train/good,f37ab3e128c33f16326fc701a53a91afd2a7787e8686ca6efdbe78efe22fdcd5
+data/bottle/train/good/200.png,train,0,good,train/good,62ff9c208bd7f59f04a1efe090f78aeb94507de20f6a71b80f31706677048338
+data/bottle/train/good/103.png,train,0,good,train/good,46ca5e6ad7e75e3289a64eb6e8ac045253c9b6fe730dc1a0c913ec3a89c54803
+data/bottle/train/good/124.png,train,0,good,train/good,6a58ec43b155b45b76d076437925e4f167f04091748a508048d5ff96c1104136
+data/bottle/train/good/130.png,train,0,good,train/good,dd2b011340ba2b28f471e25c24cd70e86cf5501f6a7d4f413c568503a15721fe
+data/bottle/train/good/066.png,train,0,good,train/good,534a0841762a1bc90995a3e59ab7de332b127daed8208644819e9d28de706450
+data/bottle/train/good/010.png,train,0,good,train/good,ad500d6c2c625ecc17f8b276a597f76ce5cabfece6326fd39682b5d6b9192db0
+data/bottle/train/good/107.png,train,0,good,train/good,a5a5db9a4c258216dfdfef27343b7b51bb866556927f08c2aa475be9afd00ab9
+data/bottle/train/good/194.png,train,0,good,train/good,bf8a182c3a5396d584aabc9c46e8f1bc422536eabb462306439d616770958fd8
+data/bottle/train/good/098.png,train,0,good,train/good,d11ced0126ff870d2a31c52f0884d1f7fdc8db3c6a6d7ebbef00b3eaecd1cdef
+data/bottle/train/good/043.png,val,0,good,train/good (held out),6174ef1513643d78ff3228e0e117208b55febcd10b2b86e16c65c26ad9df3c0c
+data/bottle/train/good/195.png,val,0,good,train/good (held out),9fa40de41750f9e07991f2b81e157b0a24778cc3a0f891a4a4a3b66a6dac5f47
+data/bottle/train/good/100.png,val,0,good,train/good (held out),f3b65510a1f6480b73b7072ccd05d154cd66dda782de1628ea68045a50c129d0
+data/bottle/train/good/159.png,val,0,good,train/good (held out),1d01990504bc24efb343097f16c83ff63563cd71a9257e35d1226774b1c84d50
+data/bottle/train/good/046.png,val,0,good,train/good (held out),1adba5092ba0706b293e0ce283629a1af776e46d8c809acb2cd084cf9d49d127
+data/bottle/train/good/183.png,val,0,good,train/good (held out),dfa04efa0b98ce6a73981b1bc971ee1e3ede3b43741cf6366e785454513dd5c4
+data/bottle/train/good/188.png,val,0,good,train/good (held out),e8b29ec37dae399f398c4792aa8bf9821023a512ba49eb8936198ce8789f8353
+data/bottle/train/good/160.png,val,0,good,train/good (held out),041466aef5f025bef0f0f39a73caae2ba4bc78fbfc1158391bb45fdd98deaa62
+data/bottle/train/good/207.png,val,0,good,train/good (held out),8d3a37405af7d2713754db40c487a6f7d6abcc5968cabb36870ddafdfd682303
+data/bottle/train/good/144.png,val,0,good,train/good (held out),73891507bcb540604d8bf4269ec73bb8121cd088813b70857f386330c07ce1ed
+data/bottle/train/good/017.png,val,0,good,train/good (held out),7d546aa84dbfe0c37b19346fa88e579d6b45b3075073e0ba3f1e2e8657e6cefb
+data/bottle/train/good/187.png,val,0,good,train/good (held out),e10abf9d218aeac81d3cced1fd6367e7728c3abfb7072e003c8de3ea1a71eb34
+data/bottle/train/good/051.png,val,0,good,train/good (held out),0e3eeb97862eaa2125829f6f6336036b3ce72ab6e8bcf8795bce2c28d8ea425f
+data/bottle/train/good/169.png,val,0,good,train/good (held out),1bf3ad96b67849c864e3efac2e90cda2d2cc51a9299c2ea3af4c39cd03366a4d
+data/bottle/train/good/058.png,val,0,good,train/good (held out),af31fae36d103e0142ba02f91359e963a50277d8af341d738e8463560dafdf86
+data/bottle/train/good/026.png,val,0,good,train/good (held out),8c9ae9da77c9a3add73dae83d25abbd444ee9445d4e4c6f1d27d946421fa6542
+data/bottle/train/good/192.png,val,0,good,train/good (held out),465ba527bdf40e00325285abe7b6028813661a7420a59e3dadd287c0290c8f87
+data/bottle/train/good/044.png,val,0,good,train/good (held out),4ec7f7015c79583007984f83a57df369c6f81551d095386d3c3e9a4554be3aee
+data/bottle/train/good/164.png,val,0,good,train/good (held out),27eda00fe8bd67fe8fb723ad5bd6074782d618f099c8831d3b365dc12c45f756
+data/bottle/train/good/134.png,val,0,good,train/good (held out),ce3d2d784e15987c508213c87ea538e4dd82639856ce1ffd5701b175143249d4
+data/bottle/train/good/118.png,test,0,good,train/good (held out),786cbe4aa69cdba4b0f1dcc1aecb37b47cd6f8e0558c2fd73b9a8c811efddae1
+data/bottle/train/good/104.png,test,0,good,train/good (held out),e5647ac4f4f8bd8b2a717efabfa810e88760718a3e9e402e130db44b2f0bc58a
+data/bottle/train/good/152.png,test,0,good,train/good (held out),ba7d31e40f6a3eed3dfb2d38ddc14785bbe81ad579b16368e3208a748d8da84c
+data/bottle/train/good/032.png,test,0,good,train/good (held out),22ea2f7d08c0a5ba4f1494737bdc198375760ce42eed8fe29b68436acf2ceb7c
+data/bottle/train/good/071.png,test,0,good,train/good (held out),ae1e456faaa780be0379f6ae80207d27be94369deef26e26d4cc9a62fc0dc872
+data/bottle/train/good/178.png,test,0,good,train/good (held out),2f0bb978b83cf3bd2ff5f991a2978343d9604090d7255ff27557ab3888e49692
+data/bottle/train/good/029.png,test,0,good,train/good (held out),b8253d5c07aaf8c58f8d0d4a1884ea4e7e7f26b8529b27e6b55e9392db97f67f
+data/bottle/train/good/093.png,test,0,good,train/good (held out),6e3c4a472fca99a3e843fa141a0fdf5190b63e492cc58ec711437701f899bf80
+data/bottle/train/good/184.png,test,0,good,train/good (held out),e6a95fe96793a6eb825151968f468aea0d6bbc243f415cf53e70a487e74901c1
+data/bottle/train/good/097.png,test,0,good,train/good (held out),c56961852e48d230edf7edb841f5ca8644cf0c37c6669ac9e604fb674b6e4ada
+data/bottle/train/good/070.png,test,0,good,train/good (held out),3689f72faebef73b1697dd8cf5e62614d06c305c84befe0655eefd0e6a4f7d45
+data/bottle/train/good/039.png,test,0,good,train/good (held out),663b485f3c271b3c7fd83c3312339c09010e7bc81dcb95d5a4f5646bb776aaaf
+data/bottle/train/good/022.png,test,0,good,train/good (held out),f8e1ece1086cc7e75dcacffdb7ac5485f767a7a53cb2f92033fc29f58e2708ba
+data/bottle/train/good/166.png,test,0,good,train/good (held out),e182aaaada3d6b701fa542289bb70854036b7183a9b8749342f50f51a75e3590
+data/bottle/train/good/092.png,test,0,good,train/good (held out),aef55a3c7a99c440ec4b449236be122888dab71ec5bed8d1b8bcd97b92a8591b
+data/bottle/train/good/108.png,test,0,good,train/good (held out),c2af50f74c6d58638e645a9fb055ab56439d0e67a4da8daa63d00e61220c47b0
+data/bottle/train/good/174.png,test,0,good,train/good (held out),2fc95a18e00634fd3ccb286cf04ce92f945d817368caf7865462434103f820b8
+data/bottle/train/good/146.png,test,0,good,train/good (held out),227c97eca0417a674392776fd7656d30a52af454835b84fdfb021dcbcdae5ec4
+data/bottle/train/good/006.png,test,0,good,train/good (held out),037acb142ec7494e749da9a46de367df92df345ea3c9c4d0e0e5fe24f8b93461
+data/bottle/train/good/131.png,test,0,good,train/good (held out),0c3bd83326c85b3ecec654964a8fec78e16010777146ac5709028ff3c430db76
+data/bottle/test/broken_large/014.png,val,1,broken_large,test/broken_large,e32c92da6a4689dfb9aa8e627da233b154d3f141c171aa6abfd32be4ac0589f8
+data/bottle/test/broken_large/003.png,val,1,broken_large,test/broken_large,b4797ce35dd407629e29dd199cd6e497f0a706a1ddd72ace226f30858d3199c4
+data/bottle/test/broken_large/015.png,val,1,broken_large,test/broken_large,3237744b81d8c38e32188bd5b0ae5cabedf37560f721466bd4a8db9851fb10cc
+data/bottle/test/broken_large/006.png,val,1,broken_large,test/broken_large,7e1590d94352b6a5d9463d4b378721ac80335f512d78095c7126d3eae1799fae
+data/bottle/test/broken_large/017.png,val,1,broken_large,test/broken_large,32a2c9cf43301567ccbb7c2e9a4eccff5a8e464de8a9c545885d6bfb28ab0315
+data/bottle/test/broken_large/005.png,val,1,broken_large,test/broken_large,cb4dfa6e11f536aa8746834d41e27f86facf51fb8c92e421af7c6dc342a32553
+data/bottle/test/broken_large/019.png,val,1,broken_large,test/broken_large,6807074bef09e3257c3bb516167264a9003ca666e1ddb65d7e306025a9cee695
+data/bottle/test/broken_large/001.png,val,1,broken_large,test/broken_large,b5e6fd5f3f9ac5310f4fecc37f64d42eaa3326d3d3b327369d2d789752189a0f
+data/bottle/test/broken_large/007.png,test,1,broken_large,test/broken_large,944292b41adbdcbc22c19027f3e0b02eae1cd9defa93bb41e4f4acb84047a3f2
+data/bottle/test/broken_large/000.png,test,1,broken_large,test/broken_large,11a691a06a33dd78c5fcab6a822caa48c0d72f27f660e19f5abd9b5aa392b0eb
+data/bottle/test/broken_large/008.png,test,1,broken_large,test/broken_large,0ded17a988dd56d1027d90402e0eff6030727b541c7c263bd77287a62a49b334
+data/bottle/test/broken_large/002.png,test,1,broken_large,test/broken_large,249813c6bccb58b9de711a6b7248f4fd8ba4136364cfad2e0577769db91353c2
+data/bottle/test/broken_large/004.png,test,1,broken_large,test/broken_large,ede2360ddfaba9c13112b6159f5fd3342226203719ba9f067c2ff16e3d4690e0
+data/bottle/test/broken_large/010.png,test,1,broken_large,test/broken_large,cac8b9cc86de2513a673453689e927a2c70a86b2f4961df2e70d795aad9fc0c6
+data/bottle/test/broken_large/013.png,test,1,broken_large,test/broken_large,cdb49dee73c2b02e2e062fe890ad5b6babc6aa5d95c84ba35486631a105f8373
+data/bottle/test/broken_large/012.png,test,1,broken_large,test/broken_large,d531152578b689d196411359c7e8db8f06ba865916e62d0bd7d4f9a81869b6db
+data/bottle/test/broken_large/011.png,test,1,broken_large,test/broken_large,d1819a2167952638c4826a78d3d081fdf26e5a923f3868713af122f5b1d8eddb
+data/bottle/test/broken_large/009.png,test,1,broken_large,test/broken_large,eb6b625a6b86299dbf335512cb3fee553f337892023560c7a5652fcbbb63d1e0
+data/bottle/test/broken_large/016.png,test,1,broken_large,test/broken_large,8b5b47f25ebec3e88c3a09b8f20e14e2413252c82737009ff6f8f20d61a2b779
+data/bottle/test/broken_large/018.png,test,1,broken_large,test/broken_large,ced7c9391abb29b26e126885a1dde2310f3fd1e2cfdf997cd463221e7664e57e
+data/bottle/test/broken_small/021.png,val,1,broken_small,test/broken_small,8fd65fc5519cf685764d5f87f3ad1cfe088e7c54e3a54ad68b5ab3df120a084d
+data/bottle/test/broken_small/002.png,val,1,broken_small,test/broken_small,e605efdbf20478f09084f3026eaa96b91d9d1e7bc113cbe8fb700f2bbcc2763e
+data/bottle/test/broken_small/016.png,val,1,broken_small,test/broken_small,72e0dfb0da261ee3b349dc34235f65c23bf6b2cbb8928a055348980c1f428bba
+data/bottle/test/broken_small/008.png,val,1,broken_small,test/broken_small,26af850d4eee499c803f372e17ac9297ebe8edc04695dea8d288ac93711325e3
+data/bottle/test/broken_small/007.png,val,1,broken_small,test/broken_small,648a8cb8babfa35f2574ae0dbff581db740cc6ff6ecb14806de29d5e4facb4a6
+data/bottle/test/broken_small/012.png,val,1,broken_small,test/broken_small,945cf8614874e85e7d81ebf0ea69340600eec2df6b3d8cdbe0019b27f0a006dc
+data/bottle/test/broken_small/013.png,val,1,broken_small,test/broken_small,b32208859b9262fa19ad2f01043ed13aac2cebaa4c85936ad489d68c719a2ea1
+data/bottle/test/broken_small/005.png,val,1,broken_small,test/broken_small,1dcaf0ee6666df4b793de50d2371b400e468f5c3b39456f8af66e6a9593f7950
+data/bottle/test/broken_small/003.png,val,1,broken_small,test/broken_small,c97b387cdafd8df6d1834dcd4bb284cb784969a5416dc067f6f2476592c1ee57
+data/bottle/test/broken_small/000.png,test,1,broken_small,test/broken_small,05b96e1102fba8cc19bf60e17d33a0830247df2bbba56cae3df100336392941e
+data/bottle/test/broken_small/001.png,test,1,broken_small,test/broken_small,bc60260af053f2f84f71550dda6f2d88c9c8e427109a56249f0dc60e30bc9759
+data/bottle/test/broken_small/010.png,test,1,broken_small,test/broken_small,21cd62dad2af2a7841c2ed469ab0909385805fa67d4ee7ba4b8dd6417c6ea95c
+data/bottle/test/broken_small/014.png,test,1,broken_small,test/broken_small,c74fb6a0cfc32692175c6f97f337fa49a0146a2ccb66ffa308e90b8b95ce50d8
+data/bottle/test/broken_small/017.png,test,1,broken_small,test/broken_small,437b1c2b5f0c055ee250ba1c4266725eae7c4e21293b0b13141e672f42a2d55b
+data/bottle/test/broken_small/006.png,test,1,broken_small,test/broken_small,3663a963886304bb1fc308bb63bdd63edb58904980662d034136f53af3124d54
+data/bottle/test/broken_small/018.png,test,1,broken_small,test/broken_small,b145d2c83ef34456539118e18ba0a197277a9625320ed7248492b308856170af
+data/bottle/test/broken_small/004.png,test,1,broken_small,test/broken_small,6f57501c4ae23aac51f06c7ea4916d8977cf84664832cc7c542447624bd9c142
+data/bottle/test/broken_small/020.png,test,1,broken_small,test/broken_small,266ed29aeada42b0ff5160b41a754887301cef8a5aeec278af64e68a736b105a
+data/bottle/test/broken_small/009.png,test,1,broken_small,test/broken_small,d83afc9847c680e6b9f5c36f49ca19e1b1f275fc0358e4864ec1809d42df32c7
+data/bottle/test/broken_small/019.png,test,1,broken_small,test/broken_small,a6e0b07c9402eb7ce810955032a54d5b05cc60f30579b397e83eba6957390c34
+data/bottle/test/broken_small/011.png,test,1,broken_small,test/broken_small,0b864bfc835768c65992b235c435e397480cfadeed57ea3884e234a2b473a9c9
+data/bottle/test/broken_small/015.png,test,1,broken_small,test/broken_small,ef423951e8f0bed66ab053c28ad709e68ef24af62b4650254c3d39aaa2bb48da
+data/bottle/test/contamination/003.png,val,1,contamination,test/contamination,023c4e62fbe0b7f408245e85b8fc60259d826dedee67fdc5a41655b7fa494e4a
+data/bottle/test/contamination/010.png,val,1,contamination,test/contamination,9cabee2946258e61422d092acdf82bdc9946d7b881dd8bfa4ed032b674be49fe
+data/bottle/test/contamination/017.png,val,1,contamination,test/contamination,39353cd83649e95260e53e0ec2ac3985cc5d42732f721cc26f7027db616695c8
+data/bottle/test/contamination/015.png,val,1,contamination,test/contamination,1e8ba471a607de42e71890f010c0e7a620522f5c55abc8f64d52b290438c31be
+data/bottle/test/contamination/000.png,val,1,contamination,test/contamination,fe2e96a8cba624ace02985481197ee8ab112d2a2faa4b79f137ace2c452eb4ea
+data/bottle/test/contamination/006.png,val,1,contamination,test/contamination,d458db2da3744fd2fc797bd7568ed8282fe1583e05d427ffa8e41d67f7e14b03
+data/bottle/test/contamination/019.png,val,1,contamination,test/contamination,883de514d58337d56397cd06cccf12e3954bdf3e2293833726c255d8f9071a3c
+data/bottle/test/contamination/009.png,val,1,contamination,test/contamination,ee3e214406dac4a5334c37423f86495f6f4440569a8b9c4b4d778f7c015e35fc
+data/bottle/test/contamination/008.png,test,1,contamination,test/contamination,35b9af10eaa1fe5525d6fb54ed3ddb069391d7dff93e8c6a6140272431115b00
+data/bottle/test/contamination/014.png,test,1,contamination,test/contamination,503a4011f035f9a703bd435917d14118cb47ed4c4712b8f77f1f2dbb119c0d0a
+data/bottle/test/contamination/002.png,test,1,contamination,test/contamination,905880d6f1f7c33cce414116beae1bda241efff97ba78647e7c2b5d25a94dd05
+data/bottle/test/contamination/011.png,test,1,contamination,test/contamination,29b03be4b7ff17a2e32446c60ea7d7c6dbffc2ffe091f17455fdc528fb337317
+data/bottle/test/contamination/004.png,test,1,contamination,test/contamination,8def2401278eb433c1a2fa0a78c79abfeea7a4d0b363e637e51c39cef34c073c
+data/bottle/test/contamination/016.png,test,1,contamination,test/contamination,9693bc441d758ca05db5602c66243681697a4d273a9468508f4a9a9b3205c0c1
+data/bottle/test/contamination/007.png,test,1,contamination,test/contamination,a3918b94553a8922b3c16d064ef73e9062710b35639a949c56d926037e4c0d0a
+data/bottle/test/contamination/005.png,test,1,contamination,test/contamination,606d939e295c39be7097829e33f82b1fea32006379817b5de2a0e0548a10b50e
+data/bottle/test/contamination/020.png,test,1,contamination,test/contamination,19dd90eb49a90512b56e9174da1fdd6e8a2ef40e590bfb8d76b1ca854c82f16b
+data/bottle/test/contamination/013.png,test,1,contamination,test/contamination,a8a05f265d400831973ae361c2773d5719f9469cc798bab1ec883274723d3165
+data/bottle/test/contamination/018.png,test,1,contamination,test/contamination,71c18397def5e402077a127a882dc3c871053b2796cf158aad1ff1a149a465dc
+data/bottle/test/contamination/012.png,test,1,contamination,test/contamination,e3fbaab9071bb10ba574e33bd244f3ff61c5f7f8c50a6f13c714b1bde5a32e2c
+data/bottle/test/contamination/001.png,test,1,contamination,test/contamination,2ddf5d0d53b2dc3d13286af69d668e9b572a360a87309bb91a4682dde8f2311a
+data/bottle/test/good/004.png,val,0,good,test/good,22e8a84b84435aa6e67266529d6a2f3b7a29f89e4701fd0a969031e517a12dea
+data/bottle/test/good/003.png,val,0,good,test/good,08c6a6cbeecb25f84c1a8a6fbc1437228980076075058550eedd2f7e1d172978
+data/bottle/test/good/007.png,val,0,good,test/good,7d3036445dcce53d746e8e1804eca5e2acaa2646c85eb574782c74a940a72921
+data/bottle/test/good/005.png,val,0,good,test/good,fa1fb2fa7dbdebe55fa61b1aec5563c769d10ceaa96e8a822fd544a748429807
+data/bottle/test/good/012.png,val,0,good,test/good,12b90fbbb65590d8b1f48d1a5ffff440c45af785b26f23cebd20ad0b86d4ad50
+data/bottle/test/good/019.png,val,0,good,test/good,44ef90ec530671e4c8125bf67b05b5f6b25a7bf24ee0d4d29dffc9af06f162dd
+data/bottle/test/good/016.png,val,0,good,test/good,5ff7596e9a7fec2b34166dba196022c09282d9b45df671aac6759bbc2995e561
+data/bottle/test/good/018.png,val,0,good,test/good,4f0c476b10508c8f163cba4a93f6272126e4b55b59df9d7ace36247ab72709df
+data/bottle/test/good/015.png,test,0,good,test/good,179aecaca86a1964bdc3075782bb36dcd1c7b25266077711a157d2dd565cfffc
+data/bottle/test/good/000.png,test,0,good,test/good,9e7bfe658efe9b6db2607a96405b4ac6880936eaf93b89c85bcd311122ceb57b
+data/bottle/test/good/002.png,test,0,good,test/good,281e0b0dada22effec4fee5b09bef9a54feaef9d8d717aeb7947aa499ab9a1f8
+data/bottle/test/good/011.png,test,0,good,test/good,17033f7fb5f93eee444224d7dd9482a6444c526e0f68591a21b12b4d356cbb8a
+data/bottle/test/good/017.png,test,0,good,test/good,ac516a2650e86145083c3a5c5b6c13b44062b4ec8daec52ee7fc81fe2fec6d4d
+data/bottle/test/good/010.png,test,0,good,test/good,b31ddd1a297e85ad505f8d8b1b2df94452ab22a5d5482f500db920635356f963
+data/bottle/test/good/008.png,test,0,good,test/good,c87eba626d55a28bcf5d046f8c1f5abf543d9eb9dd6c647181a26a29a58582b7
+data/bottle/test/good/006.png,test,0,good,test/good,cb8b1201fa027fada3209cde87514b778231e5d0923c5517d40e78b2e0423e35
+data/bottle/test/good/013.png,test,0,good,test/good,f1b83b016bd73e9490a17f052da9eae96797d6dfb11c328b6ddea5eb9af7ba73
+data/bottle/test/good/001.png,test,0,good,test/good,a45aba86ef3e1ef8dbd95ca56abeb63f576fcd2bbd040ba748a1410bb70d6d78
+data/bottle/test/good/014.png,test,0,good,test/good,a71581c613032a4db9ac7fc3e5f1b73cf0015015ee6f5a08b2f92495e4c3e3e8
+data/bottle/test/good/009.png,test,0,good,test/good,b093faf3767345a4a75ed355d62e8461590fe94778df733e6acbeff2353f9f6b

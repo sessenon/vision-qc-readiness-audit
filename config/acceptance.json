@@ -1,0 +1,12 @@
+{
+  "_note": "Written and saved BEFORE any model was built or any result existed. Do not edit after the runs.",
+  "min_clean_test_auroc": 0.95,
+  "val_recall_target_for_threshold": 0.95,
+  "min_test_recall_at_threshold": 0.90,
+  "max_int8_auroc_drop": 0.02,
+  "max_p95_latency_ms": 500,
+  "robustness_check_eps": 0.03,
+  "robustness_check_attack": "the stronger of one-step FGSM and 10-step PGD, worst case",
+  "robustness_floor_auroc": 0.85,
+  "natural_shift_floor_auroc": 0.85
+}

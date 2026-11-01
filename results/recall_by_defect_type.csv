@@ -1,0 +1,4 @@
+defect_type,n,recall_FP32,recall_INT8
+broken_large,12,1.0,1.0
+broken_small,13,1.0,1.0
+contamination,13,1.0,1.0

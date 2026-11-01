@@ -1,0 +1,6 @@
+{
+  "sealed_at": "2026-10-26T16:30:29+00:00",
+  "n_test_images": 70,
+  "test_set_fingerprint": "2b91c8e8be1c3df742d3cb216fbeace4d76f81b24554be1bdb335478433a959d",
+  "rule": "Test images are scored once, by final_eval.py."
+}
